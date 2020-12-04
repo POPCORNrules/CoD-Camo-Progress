@@ -3,9 +3,9 @@ readme_header = [
 	"# CW-Camo-Progress\n", "Taskpaper lists for my Cold War camo progress\n",
 	"\n\n", "# Current Progress\n"
 ]
-h2 = re.compile('(^\\W+)?(.*):')
-unchecked = re.compile('(\\W+)?(-\\W)(.*)')
-done = re.compile('(\\W+)?(-\\W\[\\W\]\\W)(.*)(\\W@done)')
+h2 = re.compile('^(\\W+)?(.*)\\:$', re.MULTILINE)
+unchecked = re.compile('^(\\W+)?(-\\W)(.*)$', re.MULTILINE)
+done = re.compile('^(\\W+)?(-\\W\\[\\W\\]\\W)(.*)(\\W@done)$', re.MULTILINE)
 
 
 def tptomarkdown(filename):
@@ -14,8 +14,8 @@ def tptomarkdown(filename):
 	filelines[0] = h2.sub(r'## \2', filelines[0])
 	filestr = "".join(filelines)
 	filestr = h2.sub(r'### \2', filestr)
-	filestr = unchecked.sub(r'\n- [ ] \3', filestr)
-	filestr = done.sub(r'\n- [x] \3', filestr)
+	filestr = unchecked.sub(r'- [ ] \3', filestr)
+	filestr = done.sub(r'- [x] \3', filestr)
 	file.close()
 	return filestr
 
