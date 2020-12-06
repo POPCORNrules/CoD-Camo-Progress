@@ -4,103 +4,85 @@ Taskpaper lists for my Cold War camo progress
 
 # Current Progress
 ## Gold Camo
-###     Assault Rifles
+### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
 - [ ] Krig 6
 - [ ] QBZ-83
 - [ ] FFAR 1
-
-###     Handguns
+### Handguns
 - [ ] 1911
 - [ ] Diamatti
 - [ ] Magnum
-    
-###     LMGs
+### LMGs
 - [ ] Stoner 63
 - [ ] RPD
 - [ ] M60
-    
-###     Launchers
+### Launchers
 - [ ] Cigma2
 - [ ] RPG-7
-    
-###     Tactical Rifles
+### Tactical Rifles
 - [x] Type 63
 - [ ] M16
 - [ ] AUG
 - [ ] DMR 14
-    
-###     Melee
+### Melee
 - [ ] Knife
- 
-###     SMGs
+### SMGs
 - [ ] MP5
 - [ ] Milano 821
 - [ ] AK-74u
 - [ ] KSP 45
 - [ ] Bullfrog
-    
-###     Shotguns
+### Shotguns
 - [ ] Hauer 77
 - [ ] Gallo SA 12
-    
-###     Sniper Rifles
+### Sniper Rifles
 - [ ] Pellington 703
 - [ ] LW3-Tundra
 - [ ] M82
-
-###     Special
+### Special
 - [ ] M79
 
 
 
 ## Golden Viper Camo
-###     Assault Rifles
+### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
 - [ ] Krig 6
 - [ ] QBZ-83
 - [ ] FFAR 1
-
-###     Handguns
+### Handguns
 - [ ] 1911
 - [ ] Diamatti
 - [ ] Magnum
-    
-###     LMGs
+### LMGs
 - [ ] Stoner 63
 - [ ] RPD
 - [ ] M60
-    
-###     Launchers
+### Launchers
 - [ ] Cigma2
 - [ ] RPG-7
-    
-###     Tactical Rifles
+### Tactical Rifles
 - [ ] Type 63
 - [ ] M16
 - [ ] AUG
 - [ ] DMR 14
-    
-###     Melee
+### Melee
 - [ ] Knife
- 
-###     SMGs
+### SMGs
 - [ ] MP5
 - [ ] Milano 821
 - [ ] AK-74u
 - [ ] KSP 45
 - [ ] Bullfrog
-    
-###     Shotguns
+### Shotguns
 - [ ] Hauer 77
 - [ ] Gallo SA 12
-    
-###     Sniper Rifles
+### Sniper Rifles
 - [ ] Pellington 703
 - [ ] LW3-Tundra
 - [ ] M82
-
-###     Special
+### Special
 - [ ] M79
