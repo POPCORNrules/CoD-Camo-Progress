@@ -19,11 +19,11 @@ Taskpaper lists for my Cold War camo progress
 - [ ] RPD
 - [ ] M60
 ### Launchers
-- [ ] Cigma2
+- [ ] Cigma 2
 - [ ] RPG-7
 ### Tactical Rifles
 - [x] Type 63
-- [ ] M16
+- [x] M16
 - [ ] AUG
 - [ ] DMR 14
 ### Melee
@@ -62,7 +62,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] RPD
 - [ ] M60
 ### Launchers
-- [ ] Cigma2
+- [ ] Cigma 2
 - [ ] RPG-7
 ### Tactical Rifles
 - [ ] Type 63
