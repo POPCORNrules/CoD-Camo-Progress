@@ -25,7 +25,7 @@ Taskpaper lists for my Cold War camo progress
 - [x] Type 63
 - [x] M16
 - [x] AUG
-- [ ] DMR 14
+- [x] DMR 14
 ### Melee
 - [ ] Knife
 ### SMGs
