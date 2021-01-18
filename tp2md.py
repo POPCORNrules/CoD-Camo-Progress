@@ -20,7 +20,7 @@ def tptomarkdown(filename):
             complete += 1
     percent = str(round((complete/total)*100))
     filelines[0] = h2.sub(
-        r'## \2 ![' + percent + '%](https://progress-bar.dev/' + percent + '/?s&width=200&color=babaca)', filelines[0])
+        r'## \2 ![' + percent + '%](https://progress-bar.dev/' + percent + '/?width=200&color=babaca)', filelines[0])
     filestr = "".join(filelines)
     filestr = h2.sub(r'### \2', filestr)
     filestr = unchecked.sub(r'- [ ] \3', filestr)

@@ -3,7 +3,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## Gold Camo ![14%](https://progress-bar.dev/14/?s&width=200&color=babaca)
+## Gold Camo ![14%](https://progress-bar.dev/14/?width=200&color=babaca)
 ### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
@@ -46,7 +46,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 
-## Golden Viper Camo ![0%](https://progress-bar.dev/0/?s&width=200&color=babaca)
+## Golden Viper Camo ![0%](https://progress-bar.dev/0/?width=200&color=babaca)
 ### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
