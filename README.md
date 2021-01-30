@@ -3,7 +3,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## Gold Camo ![14%](https://progress-bar.dev/14/?width=200&color=babaca)
+## Gold Camo ![17%](https://progress-bar.dev/17/?width=200&color=babaca)
 ### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
@@ -38,7 +38,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] Hauer 77
 - [ ] Gallo SA 12
 ### Sniper Rifles
-- [ ] Pellington 703
+- [x] Pellington 703
 - [ ] LW3-Tundra
 - [ ] M82
 ### Special
