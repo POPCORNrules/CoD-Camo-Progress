@@ -1,49 +1,48 @@
-Gold Camo:
-	Assault Rifles:
-		- XM4
-		- AK-47
-		- Krig 6
-		- QBZ-83
-		- FFAR 1
+Assault Rifles:
+	- XM4
+	- AK-47
+	- Krig 6
+	- QBZ-83
+	- FFAR 1
 
-	Handguns:
-		- 1911
-		- Diamatti
-		- Magnum
-	
-	LMGs:
-		- Stoner 63
-		- RPD
-		- M60
-	
-	Launchers:
-		- Cigma 2
-		- RPG-7
-	
-	Tactical Rifles:
-		- Type 63 @done
-		- M16 @done
-		- AUG @done
-		- DMR 14 @done
-	
-	Melee:
-		- Knife
+Handguns:
+	- 1911
+	- Diamatti
+	- Magnum
+
+LMGs:
+	- Stoner 63
+	- RPD
+	- M60
+
+Launchers:
+	- Cigma 2
+	- RPG-7
+
+Tactical Rifles:
+	- Type 63 @done
+	- M16 @done
+	- AUG @done
+	- DMR 14 @done
+
+Melee:
+	- Knife
  
-	SMGs:
-		- MP5
-		- Milano 821
-		- AK-74u
-		- KSP 45
-		- Bullfrog
-	
-	Shotguns:
-		- Hauer 77
-		- Gallo SA 12
-	
-	Sniper Rifles:
-		- Pellington 703 @done
-		- LW3-Tundra @done
-		- M82
+SMGs:
+	- MP5
+	- Milano 821
+	- AK-74u
+	- KSP 45
+	- Bullfrog
 
-	Special:
-		- M79
+Shotguns:
+	- Hauer 77
+	- Gallo SA 12
+
+Sniper Rifles:
+	- Pellington 703 @done
+	- LW3-Tundra @done
+	- M82
+
+Special:
+	- M79

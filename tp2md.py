@@ -19,14 +19,12 @@ def tptomarkdown(filename):
         if "@done" in line:
             complete += 1
     percent = str(round((complete/total)*100))
-    filelines[0] = h2.sub(
-        r'## \2 ![' + percent + '%](https://progress-bar.dev/' + percent + '/?width=200&color=babaca)', filelines[0])
     filestr = "".join(filelines)
     filestr = h2.sub(r'### \2', filestr)
     filestr = unchecked.sub(r'- [ ] \3', filestr)
     filestr = done.sub(r'- [x] \3', filestr)
     file.close()
-    return filestr
+    return filestr, percent
 
 
 dm_ultra = tptomarkdown("DM-Ultra.taskpaper")
@@ -36,7 +34,11 @@ readme = open("README.md", "w")
 readme.writelines(readme_header)
 readme.close()
 readme = open("README.md", "a")
-readme.write(dm_ultra)
+readme.write('## Gold Camo ![' + dm_ultra[1] + '%](https://progress-bar.dev/' +
+             dm_ultra[1] + '/?width=200&color=babaca)\n')
+readme.write(dm_ultra[0])
 readme.write('\n\n\n')
-readme.write(dark_aether)
+readme.write('## Golden Viper Camo ![' + dark_aether[1] + '%](https://progress-bar.dev/' +
+             dark_aether[1] + '/?width=200&color=babaca)\n')
+readme.write(dark_aether[0])
 readme.close()
