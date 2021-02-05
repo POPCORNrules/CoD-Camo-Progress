@@ -1,3 +1,4 @@
+#!/bin/env python
 import re
 readme_header = [
     "# CW-Camo-Progress\n", "Taskpaper lists for my Cold War camo progress\n",
