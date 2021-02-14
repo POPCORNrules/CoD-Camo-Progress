@@ -3,7 +3,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## Gold Camo ![34%](https://progress-bar.dev/34/?width=200&color=babaca)
+## Gold Camo ![38%](https://progress-bar.dev/38/?width=200&color=babaca)
 ### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
@@ -27,7 +27,7 @@ Taskpaper lists for my Cold War camo progress
 - [x] AUG
 - [x] DMR 14
 ### Melee
-- [ ] Knife
+- [x] Knife
 ### SMGs
 - [ ] MP5
 - [ ] Milano 821
