@@ -3,7 +3,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## Gold Camo ![38%](https://progress-bar.dev/38/?width=200&color=babaca)
+## Gold Camo ![41%](https://progress-bar.dev/41/?width=200&color=babaca)
 ### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
@@ -42,7 +42,7 @@ Taskpaper lists for my Cold War camo progress
 - [x] LW3-Tundra
 - [x] M82
 ### Special
-- [ ] M79
+- [x] M79
 
 
 
