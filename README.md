@@ -46,7 +46,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 
-## Golden Viper Camo ![0%](https://progress-bar.dev/0/?width=200&color=babaca)
+## Golden Viper Camo ![7%](https://progress-bar.dev/7/?width=200&color=babaca)
 ### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
@@ -62,8 +62,8 @@ Taskpaper lists for my Cold War camo progress
 - [ ] RPD
 - [ ] M60
 ### Launchers
-- [ ] Cigma 2
-- [ ] RPG-7
+- [x] Cigma 2
+- [x] RPG-7
 ### Tactical Rifles
 - [ ] Type 63
 - [ ] M16
