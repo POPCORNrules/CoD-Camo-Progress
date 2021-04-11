@@ -52,9 +52,9 @@ def readfolder(foldername):
             name = filename.replace(".taskpaper", "")
             weapon = name.replace("-"," ")
             if filecomplete == filetotal:
-                markdown += "- [x]" + name + "\n"
+                markdown += "- [x] " + name + "\n"
             else:
-                markdown += "- [ ]" + name + "\n"
+                markdown += "- [ ] " + name + "\n"
     percent = str(round((complete/total)*100))
     return markdown, percent
 
