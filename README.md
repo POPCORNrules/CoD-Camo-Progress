@@ -3,7 +3,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## Gold Camo ![59%](https://progress-bar.dev/59/?width=200&color=babaca)
+## Gold Camo ![62%](https://progress-bar.dev/62/?width=200&color=babaca)
 ### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
@@ -16,7 +16,7 @@ Taskpaper lists for my Cold War camo progress
 - [x] Diamatti
 ### LMGs
 - [x] Stoner 63
-- [ ] RPD
+- [x] RPD
 - [ ] M60
 ### Launchers
 - [x] Cigma 2
