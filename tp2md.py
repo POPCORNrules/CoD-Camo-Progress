@@ -1,15 +1,30 @@
 #!/bin/env python
 import re
+from os import walk
+folders = [
+    "Assault-Rifles",
+    "Handguns",
+    "Launchers",
+    "LMGs",
+    "Melee",
+    "Shotguns",
+    "SMGs",
+    "Sniper-Rifles",
+    "Special",
+    "Tactical-Rifles"
+]
 readme_header = [
-    "# CW-Camo-Progress\n", "Taskpaper lists for my Cold War camo progress\n",
-    "\n\n", "# Current Progress\n"
+    "# CW-Camo-Progress\n",
+    "Taskpaper lists for my Cold War camo progress\n",
+    "\n\n",
+    "# Current Progress\n"
 ]
 h2 = re.compile('^(\\W+)?(.*)\\:$', re.MULTILINE)
 unchecked = re.compile('^(\\W+)?(-\\W)(.*)$', re.MULTILINE)
 done = re.compile('^(\\W+)?(-\\W\\[\\W\\]\\W)(.*)(\\W@done)$', re.MULTILINE)
 
 
-def tptomarkdown(filename):
+def taskcount(filename):
     total = 0
     complete = 0
     file = open(filename, "r")
@@ -19,17 +34,32 @@ def tptomarkdown(filename):
             total += 1
         if "@done" in line:
             complete += 1
-    percent = str(round((complete/total)*100))
-    filestr = "".join(filelines)
-    filestr = h2.sub(r'### \2', filestr)
-    filestr = unchecked.sub(r'- [ ] \3', filestr)
-    filestr = done.sub(r'- [x] \3', filestr)
     file.close()
-    return filestr, percent
+    return total, complete
 
+def readfolder(foldername):
+    total = 0
+    complete = 0
+    markdown = ''
+    for folder in folders:
+        header = folder.replace("-"," ")
+        markdown += "# " + header + "\n"
+        _, _, filenames = next(walk(foldername + "/" + folder))
+        for filename in filenames:
+            filetotal, filecomplete = taskcount(foldername + "/" + folder + "/" + filename)
+            total += filetotal
+            complete += filecomplete
+            name = filename.replace(".taskpaper", "")
+            weapon = name.replace("-"," ")
+            if filecomplete == filetotal:
+                markdown += "- [x]" + name + "\n"
+            else:
+                markdown += "- [ ]" + name + "\n"
+    percent = str(round((complete/total)*100))
+    return markdown, percent
 
-dm_ultra = tptomarkdown("DM-Ultra.taskpaper")
-dark_aether = tptomarkdown("Dark-Aether.taskpaper")
+dm_ultra = readfolder("DM-Ultra")
+dark_aether = readfolder("Dark-Aether")
 
 readme = open("README.md", "w")
 readme.writelines(readme_header)
