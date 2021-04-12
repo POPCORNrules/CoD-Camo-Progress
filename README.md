@@ -5,84 +5,84 @@ Taskpaper lists for my Cold War camo progress
 # Current Progress
 ## Gold Camo ![66%](https://progress-bar.dev/66/?width=200&color=babaca)
 # Assault Rifles
-- [ ] AK-47
-- [ ] FFAR-1
-- [ ] QBZ-83
 - [ ] Krig-6
 - [ ] XM4
+- [ ] FFAR-1
+- [ ] QBZ-83
+- [ ] AK-47
 # Handguns
-- [x] Magnum
-- [x] Diamatti
 - [x] 1911
+- [x] Diamatti
+- [x] Magnum
 # Launchers
 - [x] RPG-7
 - [x] Cigma-2
 # LMGs
+- [x] M60
 - [x] Stoner-63
 - [x] RPD
-- [x] M60
 # Melee
 - [x] Knife
 # Shotguns
-- [x] Gallo-SA-12
 - [x] Hauer-77
+- [x] Gallo-SA-12
 # SMGs
 - [ ] MP5
-- [ ] AK-74u
 - [ ] Milano-821
-- [ ] Bullfrog
 - [ ] KSP-45
+- [ ] AK-74u
+- [ ] Bullfrog
 # Sniper Rifles
-- [x] M82
 - [x] LW3-Tundra
 - [x] Pellington-703
+- [x] M82
 # Special
 - [x] M79
 # Tactical Rifles
-- [x] DMR-14
+- [x] Type-63
 - [x] M16
 - [x] AUG
-- [x] Type-63
+- [x] DMR-14
 
 
 
 ## Golden Viper Camo ![7%](https://progress-bar.dev/7/?width=200&color=babaca)
 # Assault Rifles
-- [ ] AK-47
-- [ ] FFAR-1
-- [ ] QBZ-83
 - [ ] Krig-6
 - [ ] XM4
+- [ ] FFAR-1
+- [ ] QBZ-83
+- [ ] AK-47
 # Handguns
-- [ ] Magnum
-- [ ] Diamatti
 - [ ] 1911
+- [ ] Diamatti
+- [ ] Magnum
 # Launchers
 - [x] RPG-7
 - [x] Cigma-2
 # LMGs
+- [ ] M60
 - [ ] Stoner-63
 - [ ] RPD
-- [ ] M60
 # Melee
 - [ ] Knife
 # Shotguns
-- [ ] Gallo-SA-12
 - [ ] Hauer-77
+- [ ] Gallo-SA-12
 # SMGs
 - [ ] MP5
-- [ ] AK-74u
 - [ ] Milano-821
-- [ ] Bullfrog
 - [ ] KSP-45
+- [ ] AK-74u
+- [ ] Bullfrog
 # Sniper Rifles
-- [ ] M82
 - [ ] LW3-Tundra
 - [ ] Pellington-703
+- [ ] M82
 # Special
 - [ ] M79
 # Tactical Rifles
-- [ ] DMR-14
+- [ ] Type-63
 - [ ] M16
 - [ ] AUG
-- [ ] Type-63
+- [ ] DMR-14
