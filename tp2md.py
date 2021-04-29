@@ -73,3 +73,5 @@ readme.write('## Golden Viper Camo ![' + dark_aether[1] + '%](https://progress-b
              dark_aether[1] + '/?width=200&color=babaca)\n')
 readme.write(dark_aether[0])
 readme.close()
+print('DM Ultra Completion: ' + dm_ultra[1] + '%')
+print('Dark Aether Completion: ' + dark_aether[1] + '%')
