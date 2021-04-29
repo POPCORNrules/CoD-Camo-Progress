@@ -3,7 +3,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## Gold Camo ![69%](https://progress-bar.dev/69/?width=200&color=babaca)
+## Gold Camo ![74%](https://progress-bar.dev/74/?width=200&color=babaca)
 # Assault Rifles
 - [ ] Krig-6
 - [ ] XM4
@@ -28,7 +28,7 @@ Taskpaper lists for my Cold War camo progress
 - [x] Gallo-SA-12
 # SMGs
 - [x] MP5
-- [ ] Milano-821
+- [x] Milano-821
 - [ ] KSP-45
 - [ ] AK-74u
 - [ ] Bullfrog
