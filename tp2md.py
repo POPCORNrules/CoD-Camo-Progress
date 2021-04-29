@@ -18,16 +18,16 @@ cat = [
     "Tactical-Rifles"
 ]
 
-Assault_Rifles = [ "XM4", "AK-47", "Krig-6", "QBZ-83", "FFAR-1" ]
-Pistols = [ "1911", "Magnum", "Diamatti" ]
-Launchers = [ "Cigma-2", "RPG-7" ]
-LMGs = [ "Stoner-63", "RPD", "M60" ]
-Melee = [ "Knife" ]
-Shotguns = [ "Hauer-77", "Gallo-SA-12" ]
-SMGs = [ "MP5", "Milano-821", "AK-74u", "KSP-45", "Bullfrog" ]
-Sniper_Rifles = ["Pellington-703", "LW3-Tundra", "M82" ]
-Special = [ "M79" ]
-Tactical_Rifles = [ "Type-63", "M16", "AUG", "DMR-14" ]
+Assault_Rifles = [[ "XM4", "AK-47", "Krig-6", "QBZ-83", "FFAR-1" ],[5]]
+Pistols = [[ "1911", "Magnum", "Diamatti" ],[3]]
+Launchers = [[ "Cigma-2", "RPG-7" ],[2]]
+LMGs = [[ "Stoner-63", "RPD", "M60" ],[3]]
+Melee = [[ "Knife" ],[1]]
+Shotguns = [[ "Hauer-77", "Gallo-SA-12" ],[2]]
+SMGs = [[ "MP5", "Milano-821", "AK-74u", "KSP-45", "Bullfrog" ],[5]]
+Sniper_Rifles = [["Pellington-703", "LW3-Tundra", "M82" ],[3]]
+Special = [[ "M79" ],[1]]
+Tactical_Rifles = [[ "Type-63", "M16", "AUG", "DMR-14" ],[4]]
 
 dm = [ "Spray:\n- Shards\n- Ambush\n- Frozen Lake\n- Debris\n- Prosper\n\n",
        "Stripes:\n- Gravel\n- Graze\n- Frost\n- Thrash\n- Bengal\n\n",
