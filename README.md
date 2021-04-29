@@ -3,24 +3,24 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## Gold Camo ![74%](https://progress-bar.dev/74/?width=200&color=babaca)
+## DM Ultra ![72%](https://progress-bar.dev/72/?width=200)
 # Assault Rifles
-- [ ] Krig-6
 - [ ] XM4
-- [ ] FFAR-1
-- [ ] QBZ-83
 - [ ] AK-47
-# Handguns
+- [ ] Krig-6
+- [ ] QBZ-83
+- [ ] FFAR-1
+# Pistols
 - [x] 1911
-- [x] Diamatti
 - [x] Magnum
+- [x] Diamatti
 # Launchers
-- [x] RPG-7
 - [x] Cigma-2
+- [x] RPG-7
 # LMGs
-- [x] M60
 - [x] Stoner-63
 - [x] RPD
+- [x] M60
 # Melee
 - [x] Knife
 # Shotguns
@@ -29,12 +29,12 @@ Taskpaper lists for my Cold War camo progress
 # SMGs
 - [x] MP5
 - [x] Milano-821
-- [ ] KSP-45
 - [ ] AK-74u
+- [ ] KSP-45
 - [ ] Bullfrog
 # Sniper Rifles
-- [x] LW3-Tundra
 - [x] Pellington-703
+- [x] LW3-Tundra
 - [x] M82
 # Special
 - [x] M79
@@ -45,25 +45,24 @@ Taskpaper lists for my Cold War camo progress
 - [x] DMR-14
 
 
-
-## Golden Viper Camo ![7%](https://progress-bar.dev/7/?width=200&color=babaca)
+## Dark Aether ![7%](https://progress-bar.dev/7/?width=200)
 # Assault Rifles
-- [ ] Krig-6
 - [ ] XM4
-- [ ] FFAR-1
-- [ ] QBZ-83
 - [ ] AK-47
-# Handguns
+- [ ] Krig-6
+- [ ] QBZ-83
+- [ ] FFAR-1
+# Pistols
 - [ ] 1911
-- [ ] Diamatti
 - [ ] Magnum
+- [ ] Diamatti
 # Launchers
-- [x] RPG-7
 - [x] Cigma-2
+- [x] RPG-7
 # LMGs
-- [ ] M60
 - [ ] Stoner-63
 - [ ] RPD
+- [ ] M60
 # Melee
 - [ ] Knife
 # Shotguns
@@ -72,12 +71,12 @@ Taskpaper lists for my Cold War camo progress
 # SMGs
 - [ ] MP5
 - [ ] Milano-821
-- [ ] KSP-45
 - [ ] AK-74u
+- [ ] KSP-45
 - [ ] Bullfrog
 # Sniper Rifles
-- [ ] LW3-Tundra
 - [ ] Pellington-703
+- [ ] LW3-Tundra
 - [ ] M82
 # Special
 - [ ] M79
@@ -86,3 +85,5 @@ Taskpaper lists for my Cold War camo progress
 - [ ] M16
 - [ ] AUG
 - [ ] DMR-14
+
+
