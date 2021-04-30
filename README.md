@@ -3,87 +3,115 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## DM Ultra ![72%](https://progress-bar.dev/72/?width=200)
-# Assault Rifles
+## DM Ultra: 8/10 Categories ![49%](https://progress-bar.dev/49/?width=200)
+### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
-- [ ] Krig-6
+- [ ] Krig 6
 - [ ] QBZ-83
-- [ ] FFAR-1
-# Pistols
+- [ ] FFAR 1
+- [ ] Groza
+- [ ] FARA 83
+### Pistols (Unlocked)
 - [x] 1911
 - [x] Magnum
 - [x] Diamatti
-# Launchers
+### Launchers (Unlocked)
 - [x] Cigma-2
 - [x] RPG-7
-# LMGs
-- [x] Stoner-63
+### LMGs (Unlocked)
+- [x] Stoner 63
 - [x] RPD
 - [x] M60
-# Melee
+### Melee (Unlocked)
 - [x] Knife
-# Shotguns
+- [ ] Sledgehammer
+- [ ] Wakizashi
+- [ ] E-Tool
+- [ ] Machete
+### Shotguns (Unlocked)
 - [x] Hauer-77
-- [x] Gallo-SA-12
-# SMGs
+- [x] Gallo SA12
+- [ ] Streetsweeper
+### SMGs
 - [x] MP5
-- [x] Milano-821
+- [x] Milano 821
 - [ ] AK-74u
-- [ ] KSP-45
+- [ ] KSP 45
 - [ ] Bullfrog
-# Sniper Rifles
-- [x] Pellington-703
+- [ ] MAC-10
+- [ ] LC10
+- [ ] PPSh-41
+### Sniper Rifles (Unlocked)
+- [x] Pellington 703
 - [x] LW3-Tundra
 - [x] M82
-# Special
+- [ ] ZRG 20mm
+- [ ] Swiss K31
+### Special (Unlocked)
 - [x] M79
-# Tactical Rifles
-- [x] Type-63
+- [ ] R1 Shadowhunter
+- [ ] Ballistic Knife
+### Tactical Rifles (Unlocked)
+- [x] Type 63
 - [x] M16
 - [x] AUG
-- [x] DMR-14
+- [x] DMR 14
 
 
-## Dark Aether ![7%](https://progress-bar.dev/7/?width=200)
-# Assault Rifles
+## Dark Aether: 1/10 Categories ![5%](https://progress-bar.dev/5/?width=200)
+### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
-- [ ] Krig-6
+- [ ] Krig 6
 - [ ] QBZ-83
-- [ ] FFAR-1
-# Pistols
+- [ ] FFAR 1
+- [ ] Groza
+- [ ] FARA 83
+### Pistols
 - [ ] 1911
 - [ ] Magnum
 - [ ] Diamatti
-# Launchers
+### Launchers (Unlocked)
 - [x] Cigma-2
 - [x] RPG-7
-# LMGs
-- [ ] Stoner-63
+### LMGs
+- [ ] Stoner 63
 - [ ] RPD
 - [ ] M60
-# Melee
+### Melee
 - [ ] Knife
-# Shotguns
+- [ ] Sledgehammer
+- [ ] Wakizashi
+- [ ] E-Tool
+- [ ] Machete
+### Shotguns
 - [ ] Hauer-77
-- [ ] Gallo-SA-12
-# SMGs
+- [ ] Gallo SA12
+- [ ] Streetsweeper
+### SMGs
 - [ ] MP5
-- [ ] Milano-821
+- [ ] Milano 821
 - [ ] AK-74u
-- [ ] KSP-45
+- [ ] KSP 45
 - [ ] Bullfrog
-# Sniper Rifles
-- [ ] Pellington-703
+- [ ] MAC-10
+- [ ] LC10
+- [ ] PPSh-41
+### Sniper Rifles
+- [ ] Pellington 703
 - [ ] LW3-Tundra
 - [ ] M82
-# Special
+- [ ] ZRG 20mm
+- [ ] Swiss K31
+### Special
 - [ ] M79
-# Tactical Rifles
-- [ ] Type-63
+- [ ] R1 Shadowhunter
+- [ ] Ballistic Knife
+### Tactical Rifles
+- [ ] Type 63
 - [ ] M16
 - [ ] AUG
-- [ ] DMR-14
+- [ ] DMR 14
 
 
