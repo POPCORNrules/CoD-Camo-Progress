@@ -29,21 +29,21 @@ Sniper_Rifles = [["Pellington 703", "LW3-Tundra", "M82", "ZRG 20mm", "Swiss K31"
 Special = [["M79", "R1 Shadowhunter", "Ballistic Knife"], [1]]
 Tactical_Rifles = [["Type 63", "M16", "AUG", "DMR 14"], [4]]
 
-dm = ["Spray:\n - Shards\n - Ambush\n - Frozen Lake\n - Debris\n - Prosper\n\n",
-      "Stripes:\n - Gravel\n - Graze\n - Frost\n - Thrash\n - Bengal\n\n",
-      "Classic:\n - Platoon\n - Ash\n - Checkpoint\n - Coercion\n - Ransom\n\n",
-      "Geometric:\n - Blockade\n - Warsaw\n - Transform\n - Fraction\n - Bloodline\n\n",
-      "Flora:\n - Frith\n - Old Growth\n - Nectar\n - Lumber\n - Cherry Blossom\n\n",
-      "Science:\n - Teleport\n - Cosmonaut\n - Decipher\n - Integer\n - Policia\n\n",
-      "Psychedelic:\n - Groovy\n - Seducer\n - Blush\n - Melancholy\n - Bliss"]
+dm = ["Spray:\n\t- Shards\n\t- Ambush\n\t- Frozen Lake\n\t- Debris\n\t- Prosper\n\n",
+      "Stripes:\n\t- Gravel\n\t- Graze\n\t- Frost\n\t- Thrash\n\t- Bengal\n\n",
+      "Classic:\n\t- Platoon\n\t- Ash\n\t- Checkpoint\n\t- Coercion\n\t- Ransom\n\n",
+      "Geometric:\n\t- Blockade\n\t- Warsaw\n\t- Transform\n\t- Fraction\n\t- Bloodline\n\n",
+      "Flora:\n\t- Frith\n\t- Old Growth\n\t- Nectar\n\t- Lumber\n\t- Cherry Blossom\n\n",
+      "Science:\n\t- Teleport\n\t- Cosmonaut\n\t- Decipher\n\t- Integer\n\t- Policia\n\n",
+      "Psychedelic:\n\t- Groovy\n\t- Seducer\n\t- Blush\n\t- Melancholy\n\t- Bliss"]
 
-da = ["Grunge:\n - Stroke\n - Glacier\n - Grudge\n - Bloodshed\n - Rotten\n\n",
-      "Liquid:\n - Wasteland\n - Amphibian\n - Boundary\n - Threshold\n - Banished\n\n",
-      "Brushstroke:\n - Extortion\n - Degeneration\n - Downfall\n - Drench\n - Chemical\n\n",
-      "Vintage:\n - Decadence\n - Bravado\n - Funkadelic\n - Boutique\n - Maniac\n\n",
-      "Fauna:\n - Growl\n - Scavenger\n - Zebra\n - Blue Tiger\n - Rising Tiger\n\n",
-      "Topography:\n - Acidic\n - Gunrunner\n - Forecast\n - Cartographer\n - Sunder\n\n",
-      "Infection:\n - Corrosion\n - Entropy\n - Contamination\n - Glitch\n - Conviction"]
+da = ["Grunge:\n\t- Stroke\n\t- Glacier\n\t- Grudge\n\t- Bloodshed\n\t- Rotten\n\n",
+      "Liquid:\n\t- Wasteland\n\t- Amphibian\n\t- Boundary\n\t- Threshold\n\t- Banished\n\n",
+      "Brushstroke:\n\t- Extortion\n\t- Degeneration\n\t- Downfall\n\t- Drench\n\t- Chemical\n\n",
+      "Vintage:\n\t- Decadence\n\t- Bravado\n\t- Funkadelic\n\t- Boutique\n\t- Maniac\n\n",
+      "Fauna:\n\t- Growl\n\t- Scavenger\n\t- Zebra\n\t- Blue Tiger\n\t- Rising Tiger\n\n",
+      "Topography:\n\t- Acidic\n\t- Gunrunner\n\t- Forecast\n\t- Cartographer\n\t- Sunder\n\n",
+      "Infection:\n\t- Corrosion\n\t- Entropy\n\t- Contamination\n\t- Glitch\n\t- Conviction"]
 
 readme_header = ["# CW-Camo-Progress\n",
                  "Taskpaper lists for my Cold War camo progress\n",
@@ -98,34 +98,21 @@ def readfolder(masterycamo):
 
     return markdown, percent, str(mtotal), str(mcomplete)
 
-
-if "-i" in opts:
-    print("Initializing Files...")
-    for camo in camos:
-        os.mkdir(camo)
-        for category in cat:
-            os.mkdir(camo + "/" + category)
-            for gun in eval(category.replace("-", "_"))[0]:
-                filename = str(gun).replace(" ", "-")
-                tp = open(camo + "/" + category + "/" + filename + ".taskpaper", "x")
-                if camo == "DM-Ultra":
-                    tp.writelines(dm)
-                elif camo == "Dark-Aether":
-                    tp.writelines(da)
-                tp.close()
-    readme = open("README.md", "x")
-    readme.writelines(readme_header)
-    readme.close()
-    print("Done.")
-
 if "-u" in opts:
     print("Updating Files...")
     for camo in camos:
+        if not os.path.exists(camo):
+            print("Creating " + camo + "/")
+            os.mkdir(camo)
         for category in cat:
+            if not os.path.exists(camo + "/" + category):
+                print("Creating " + camo + "/" + category + "/")
+                os.mkdir(camo + "/" + category)
             for gun in eval(category.replace("-", "_"))[0]:
                 filename = str(gun).replace(" ", "-")
                 path = camo + "/" + category + "/" + filename + ".taskpaper"
                 if not os.path.exists(path):
+                    print("Creating " + path)
                     tp = open(path, "x")
                     if camo == "DM-Ultra":
                         tp.writelines(dm)
