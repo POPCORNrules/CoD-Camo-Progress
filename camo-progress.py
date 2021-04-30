@@ -29,21 +29,21 @@ Sniper_Rifles = [["Pellington 703", "LW3-Tundra", "M82", "ZRG 20mm", "Swiss K31"
 Special = [["M79", "R1 Shadowhunter", "Ballistic Knife"], [1]]
 Tactical_Rifles = [["Type 63", "M16", "AUG", "DMR 14"], [4]]
 
-dm = ["Spray:\n- Shards\n- Ambush\n- Frozen Lake\n- Debris\n- Prosper\n\n",
-      "Stripes:\n- Gravel\n- Graze\n- Frost\n- Thrash\n- Bengal\n\n",
-      "Classic:\n- Platoon\n- Ash\n- Checkpoint\n- Coercion\n- Ransom\n\n",
-      "Geometric:\n- Blockade\n- Warsaw\n- Transform\n- Fraction\n- Bloodline\n\n",
-      "Flora:\n- Frith\n- Old Growth\n- Nectar\n- Lumber\n- Cherry Blossom\n\n",
-      "Science:\n- Teleport\n- Cosmonaut\n- Decipher\n- Integer\n- Policia\n\n",
-      "Psychedelic:\n- Groovy\n- Seducer\n- Blush\n- Melancholy\n- Bliss"]
+dm = ["Spray:\n - Shards\n - Ambush\n - Frozen Lake\n - Debris\n - Prosper\n\n",
+      "Stripes:\n - Gravel\n - Graze\n - Frost\n - Thrash\n - Bengal\n\n",
+      "Classic:\n - Platoon\n - Ash\n - Checkpoint\n - Coercion\n - Ransom\n\n",
+      "Geometric:\n - Blockade\n - Warsaw\n - Transform\n - Fraction\n - Bloodline\n\n",
+      "Flora:\n - Frith\n - Old Growth\n - Nectar\n - Lumber\n - Cherry Blossom\n\n",
+      "Science:\n - Teleport\n - Cosmonaut\n - Decipher\n - Integer\n - Policia\n\n",
+      "Psychedelic:\n - Groovy\n - Seducer\n - Blush\n - Melancholy\n - Bliss"]
 
-da = ["Grunge:\n- Stroke\n- Glacier\n- Grudge\n- Bloodshed\n- Rotten\n\n",
-      "Liquid:\n- Wasteland\n- Amphibian\n- Boundary\n- Threshold\n- Banished\n\n",
-      "Brushstroke:\n- Extortion\n- Degeneration\n- Downfall\n- Drench\n- Chemical\n\n",
-      "Vintage:\n- Decadence\n- Bravado\n- Funkadelic\n- Boutique\n- Maniac\n\n",
-      "Fauna:\n- Growl\n- Scavenger\n- Zebra\n- Blue Tiger\n- Rising Tiger\n\n",
-      "Topography:\n- Acidic\n- Gunrunner\n- Forecast\n- Cartographer\n- Sunder\n\n",
-      "Infection:\n- Corrosion\n- Entropy\n- Contamination\n- Glitch\n- Conviction"]
+da = ["Grunge:\n - Stroke\n - Glacier\n - Grudge\n - Bloodshed\n - Rotten\n\n",
+      "Liquid:\n - Wasteland\n - Amphibian\n - Boundary\n - Threshold\n - Banished\n\n",
+      "Brushstroke:\n - Extortion\n - Degeneration\n - Downfall\n - Drench\n - Chemical\n\n",
+      "Vintage:\n - Decadence\n - Bravado\n - Funkadelic\n - Boutique\n - Maniac\n\n",
+      "Fauna:\n - Growl\n - Scavenger\n - Zebra\n - Blue Tiger\n - Rising Tiger\n\n",
+      "Topography:\n - Acidic\n - Gunrunner\n - Forecast\n - Cartographer\n - Sunder\n\n",
+      "Infection:\n - Corrosion\n - Entropy\n - Contamination\n - Glitch\n - Conviction"]
 
 readme_header = ["# CW-Camo-Progress\n",
                  "Taskpaper lists for my Cold War camo progress\n",
