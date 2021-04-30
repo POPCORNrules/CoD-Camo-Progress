@@ -132,9 +132,6 @@ if "-u" in opts:
                     elif camo == "Dark-Aether":
                         tp.writelines(da)
                     tp.close()
-    readme = open("README.md", "x")
-    readme.writelines(readme_header)
-    readme.close()
     print("Done.")
 
 else:
