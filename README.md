@@ -36,7 +36,7 @@ Taskpaper lists for my Cold War camo progress
 ### SMGs
 - [x] MP5
 - [x] Milano 821
-- [ ] AK-74u
+- [x] AK-74u
 - [ ] KSP 45
 - [ ] Bullfrog
 - [ ] MAC-10
