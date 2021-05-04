@@ -1,12 +1,12 @@
 Spray:
-	- Shards
-	- Ambush
-	- Frozen Lake
+	- Shards @done
+	- Ambush @done
+	- Frozen Lake @done
 	- Debris
 	- Prosper
 
 Stripes:
-	- Gravel
+	- Gravel @done
 	- Graze
 	- Frost
 	- Thrash
