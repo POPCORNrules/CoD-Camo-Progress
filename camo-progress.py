@@ -27,7 +27,7 @@ Shotguns = [["Hauer-77", "Gallo SA12", "Streetsweeper"], [2]]
 SMGs = [["MP5", "Milano 821", "AK-74u", "KSP 45", "Bullfrog", "MAC-10", "LC10", "PPSh-41"], [5]]
 Sniper_Rifles = [["Pellington 703", "LW3-Tundra", "M82", "ZRG 20mm", "Swiss K31"], [3]]
 Special = [["M79", "R1 Shadowhunter", "Ballistic Knife"], [1]]
-Tactical_Rifles = [["Type 63", "M16", "AUG", "DMR 14"], [4]]
+Tactical_Rifles = [["Type 63", "M16", "AUG", "DMR 14", "CARV.2"], [4]]
 
 dm = ["Spray:\n\t- Shards\n\t- Ambush\n\t- Frozen Lake\n\t- Debris\n\t- Prosper\n\n",
       "Stripes:\n\t- Gravel\n\t- Graze\n\t- Frost\n\t- Thrash\n\t- Bengal\n\n",
