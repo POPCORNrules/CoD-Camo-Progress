@@ -2,19 +2,19 @@ Spray:
 	- Shards @done
 	- Ambush @done
 	- Frozen Lake @done
-	- Debris
-	- Prosper
+	- Debris @done
+	- Prosper @done
 
 Stripes:
 	- Gravel @done
-	- Graze
-	- Frost
+	- Graze @done
+	- Frost @done
 	- Thrash
 	- Bengal
 
 Classic:
-	- Platoon
-	- Ash
+	- Platoon @done
+	- Ash @done
 	- Checkpoint
 	- Coercion
 	- Ransom
