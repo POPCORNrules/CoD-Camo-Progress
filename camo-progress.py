@@ -3,7 +3,10 @@ import sys
 import os
 
 opts = [opt for opt in sys.argv[1:] if opt.startswith("-")]
-camos = ["DM-Ultra", "Dark-Aether"]
+camos = [
+    "DM-Ultra",
+    "Dark-Aether"
+]
 
 cat = [
     "Assault-Rifles",
@@ -29,21 +32,21 @@ Sniper_Rifles = [["Pellington 703", "LW3-Tundra", "M82", "ZRG 20mm", "Swiss K31"
 Special = [["M79", "R1 Shadowhunter", "Ballistic Knife"], [1]]
 Tactical_Rifles = [["Type 63", "M16", "AUG", "DMR 14", "CARV.2"], [4]]
 
-dm = ["Spray:\n\t- Shards\n\t- Ambush\n\t- Frozen Lake\n\t- Debris\n\t- Prosper\n\n",
-      "Stripes:\n\t- Gravel\n\t- Graze\n\t- Frost\n\t- Thrash\n\t- Bengal\n\n",
-      "Classic:\n\t- Platoon\n\t- Ash\n\t- Checkpoint\n\t- Coercion\n\t- Ransom\n\n",
-      "Geometric:\n\t- Blockade\n\t- Warsaw\n\t- Transform\n\t- Fraction\n\t- Bloodline\n\n",
-      "Flora:\n\t- Frith\n\t- Old Growth\n\t- Nectar\n\t- Lumber\n\t- Cherry Blossom\n\n",
-      "Science:\n\t- Teleport\n\t- Cosmonaut\n\t- Decipher\n\t- Integer\n\t- Policia\n\n",
-      "Psychedelic:\n\t- Groovy\n\t- Seducer\n\t- Blush\n\t- Melancholy\n\t- Bliss"]
+DM_Ultra = ["Spray:\n\t- Shards\n\t- Ambush\n\t- Frozen Lake\n\t- Debris\n\t- Prosper\n\n",
+            "Stripes:\n\t- Gravel\n\t- Graze\n\t- Frost\n\t- Thrash\n\t- Bengal\n\n",
+            "Classic:\n\t- Platoon\n\t- Ash\n\t- Checkpoint\n\t- Coercion\n\t- Ransom\n\n",
+            "Geometric:\n\t- Blockade\n\t- Warsaw\n\t- Transform\n\t- Fraction\n\t- Bloodline\n\n",
+            "Flora:\n\t- Frith\n\t- Old Growth\n\t- Nectar\n\t- Lumber\n\t- Cherry Blossom\n\n",
+            "Science:\n\t- Teleport\n\t- Cosmonaut\n\t- Decipher\n\t- Integer\n\t- Policia\n\n",
+            "Psychedelic:\n\t- Groovy\n\t- Seducer\n\t- Blush\n\t- Melancholy\n\t- Bliss"]
 
-da = ["Grunge:\n\t- Stroke\n\t- Glacier\n\t- Grudge\n\t- Bloodshed\n\t- Rotten\n\n",
-      "Liquid:\n\t- Wasteland\n\t- Amphibian\n\t- Boundary\n\t- Threshold\n\t- Banished\n\n",
-      "Brushstroke:\n\t- Extortion\n\t- Degeneration\n\t- Downfall\n\t- Drench\n\t- Chemical\n\n",
-      "Vintage:\n\t- Decadence\n\t- Bravado\n\t- Funkadelic\n\t- Boutique\n\t- Maniac\n\n",
-      "Fauna:\n\t- Growl\n\t- Scavenger\n\t- Zebra\n\t- Blue Tiger\n\t- Rising Tiger\n\n",
-      "Topography:\n\t- Acidic\n\t- Gunrunner\n\t- Forecast\n\t- Cartographer\n\t- Sunder\n\n",
-      "Infection:\n\t- Corrosion\n\t- Entropy\n\t- Contamination\n\t- Glitch\n\t- Conviction"]
+Dark_Aether = ["Grunge:\n\t- Stroke\n\t- Glacier\n\t- Grudge\n\t- Bloodshed\n\t- Rotten\n\n",
+               "Liquid:\n\t- Wasteland\n\t- Amphibian\n\t- Boundary\n\t- Threshold\n\t- Banished\n\n",
+               "Brushstroke:\n\t- Extortion\n\t- Degeneration\n\t- Downfall\n\t- Drench\n\t- Chemical\n\n",
+               "Vintage:\n\t- Decadence\n\t- Bravado\n\t- Funkadelic\n\t- Boutique\n\t- Maniac\n\n",
+               "Fauna:\n\t- Growl\n\t- Scavenger\n\t- Zebra\n\t- Blue Tiger\n\t- Rising Tiger\n\n",
+               "Topography:\n\t- Acidic\n\t- Gunrunner\n\t- Forecast\n\t- Cartographer\n\t- Sunder\n\n",
+               "Infection:\n\t- Corrosion\n\t- Entropy\n\t- Contamination\n\t- Glitch\n\t- Conviction"]
 
 readme_header = ["# CW-Camo-Progress\n",
                  "Taskpaper lists for my Cold War camo progress\n",
@@ -110,14 +113,11 @@ if "-u" in opts:
                 os.mkdir(camo + "/" + category)
             for gun in eval(category.replace("-", "_"))[0]:
                 filename = str(gun).replace(" ", "-")
-                path = camo + "/" + category + "/" + filename + ".taskpaper"
-                if not os.path.exists(path):
-                    print("Creating " + path)
-                    tp = open(path, "x")
-                    if camo == "DM-Ultra":
-                        tp.writelines(dm)
-                    elif camo == "Dark-Aether":
-                        tp.writelines(da)
+                name = camo + "/" + category + "/" + filename + ".taskpaper"
+                if not os.path.exists(name):
+                    print("Creating " + name)
+                    tp = open(name, "x")
+                    tp.writelines(eval(camo.replace("-", "_")))
                     tp.close()
     print("Done.")
 
