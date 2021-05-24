@@ -1,20 +1,20 @@
 Spray:
-	- Shards
-	- Ambush
-	- Frozen Lake
-	- Debris
-	- Prosper
+	- Shards @done
+	- Ambush @done
+	- Frozen Lake @done
+	- Debris @done
+	- Prosper @done
 
 Stripes:
-	- Gravel
-	- Graze
-	- Frost
+	- Gravel @done
+	- Graze @done
+	- Frost @done
 	- Thrash
 	- Bengal
 
 Classic:
-	- Platoon
-	- Ash
+	- Platoon @done
+	- Ash @done
 	- Checkpoint
 	- Coercion
 	- Ransom
@@ -27,8 +27,8 @@ Geometric:
 	- Bloodline
 
 Flora:
-	- Frith
-	- Old Growth
+	- Frith @done
+	- Old Growth @done
 	- Nectar
 	- Lumber
 	- Cherry Blossom
