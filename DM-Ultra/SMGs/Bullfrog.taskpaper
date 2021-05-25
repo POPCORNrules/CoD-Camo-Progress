@@ -9,14 +9,14 @@ Stripes:
 	- Gravel @done
 	- Graze @done
 	- Frost @done
-	- Thrash
+	- Thrash @done
 	- Bengal
 
 Classic:
 	- Platoon @done
 	- Ash @done
-	- Checkpoint
-	- Coercion
+	- Checkpoint @done
+	- Coercion @done
 	- Ransom
 
 Geometric:
@@ -29,7 +29,7 @@ Geometric:
 Flora:
 	- Frith @done
 	- Old Growth @done
-	- Nectar
+	- Nectar @done
 	- Lumber
 	- Cherry Blossom
 
