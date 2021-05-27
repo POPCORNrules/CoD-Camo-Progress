@@ -17,7 +17,7 @@ Classic:
 	- Ash @done
 	- Checkpoint @done
 	- Coercion @done
-	- Ransom
+	- Ransom @done
 
 Geometric:
 	- Blockade
@@ -30,11 +30,11 @@ Flora:
 	- Frith @done
 	- Old Growth @done
 	- Nectar @done
-	- Lumber
+	- Lumber @done
 	- Cherry Blossom
 
 Science:
-	- Teleport
+	- Teleport @done
 	- Cosmonaut
 	- Decipher
 	- Integer
@@ -46,3 +46,4 @@ Psychedelic:
 	- Blush
 	- Melancholy
 	- Bliss
+
