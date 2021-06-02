@@ -3,7 +3,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## DM Ultra: 8/10 Categories ![54%](https://progress-bar.dev/54/?width=200)
+## DM Ultra: 9/10 Categories ![52%](https://progress-bar.dev/52/?width=200)
 ### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
@@ -16,6 +16,7 @@ Taskpaper lists for my Cold War camo progress
 - [x] 1911
 - [x] Magnum
 - [x] Diamatti
+- [ ] AMP63
 ### Launchers (Unlocked)
 - [x] Cigma-2
 - [x] RPG-7
@@ -29,16 +30,17 @@ Taskpaper lists for my Cold War camo progress
 - [ ] Wakizashi
 - [ ] E-Tool
 - [ ] Machete
+- [ ] Baseball Bat
 ### Shotguns (Unlocked)
 - [x] Hauer-77
 - [x] Gallo SA12
 - [ ] Streetsweeper
-### SMGs
+### SMGs (Unlocked)
 - [x] MP5
 - [x] Milano 821
 - [x] AK-74u
 - [ ] KSP 45
-- [ ] Bullfrog
+- [x] Bullfrog
 - [ ] MAC-10
 - [ ] LC10
 - [x] PPSh-41
@@ -60,7 +62,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] CARV.2
 
 
-## Dark Aether: 1/10 Categories ![5%](https://progress-bar.dev/5/?width=200)
+## Dark Aether: 1/10 Categories ![4%](https://progress-bar.dev/4/?width=200)
 ### Assault Rifles
 - [ ] XM4
 - [ ] AK-47
@@ -73,6 +75,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] 1911
 - [ ] Magnum
 - [ ] Diamatti
+- [ ] AMP63
 ### Launchers (Unlocked)
 - [x] Cigma-2
 - [x] RPG-7
@@ -86,6 +89,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] Wakizashi
 - [ ] E-Tool
 - [ ] Machete
+- [ ] Baseball Bat
 ### Shotguns
 - [ ] Hauer-77
 - [ ] Gallo SA12
