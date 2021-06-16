@@ -3,10 +3,10 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## DM Ultra: 9/10 Categories ![55%](https://progress-bar.dev/55/?width=200)
+## DM Ultra: 9/10 Categories ![57%](https://progress-bar.dev/57/?width=200)
 ### Assault Rifles
 - [x] XM4
-- [ ] AK-47
+- [x] AK-47
 - [ ] Krig 6
 - [ ] QBZ-83
 - [ ] FFAR 1
