@@ -3,7 +3,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## DM Ultra: 9/10 Categories ![58%](https://progress-bar.dev/58/?width=200)
+## DM Ultra: 9/10 Categories ![54%](https://progress-bar.dev/54/?width=200)
 ### Assault Rifles
 - [x] XM4
 - [x] AK-47
@@ -12,6 +12,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] FFAR 1
 - [ ] Groza
 - [ ] FARA 83
+- [ ] C58
 ### Pistols (Unlocked)
 - [x] 1911
 - [x] Magnum
@@ -24,6 +25,7 @@ Taskpaper lists for my Cold War camo progress
 - [x] Stoner 63
 - [x] RPD
 - [x] M60
+- [ ] MG 82
 ### Melee (Unlocked)
 - [x] Knife
 - [ ] Sledgehammer
@@ -54,6 +56,7 @@ Taskpaper lists for my Cold War camo progress
 - [x] M79
 - [ ] R1 Shadowhunter
 - [ ] Ballistic Knife
+- [ ] Nail Gun
 ### Tactical Rifles (Unlocked)
 - [x] Type 63
 - [x] M16
@@ -71,6 +74,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] FFAR 1
 - [ ] Groza
 - [ ] FARA 83
+- [ ] C58
 ### Pistols
 - [ ] 1911
 - [ ] Magnum
@@ -83,6 +87,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] Stoner 63
 - [ ] RPD
 - [ ] M60
+- [ ] MG 82
 ### Melee
 - [ ] Knife
 - [ ] Sledgehammer
@@ -113,6 +118,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] M79
 - [ ] R1 Shadowhunter
 - [ ] Ballistic Knife
+- [ ] Nail Gun
 ### Tactical Rifles
 - [ ] Type 63
 - [ ] M16
