@@ -9,7 +9,7 @@ Stripes:
 	- Gravel @done
 	- Graze @done
 	- Frost @done
-	- Thrash
+	- Thrash @done
 	- Bengal
 
 Classic:
@@ -17,32 +17,32 @@ Classic:
 	- Ash @done
 	- Checkpoint @done
 	- Coercion @done
-	- Ransom
+	- Ransom @done
 
 Geometric:
 	- Blockade @done
 	- Warsaw @done
-	- Transform
-	- Fraction
+	- Transform @done
+	- Fraction @done
 	- Bloodline
 
 Flora:
 	- Frith @done
 	- Old Growth @done
 	- Nectar @done
-	- Lumber
+	- Lumber @done
 	- Cherry Blossom
 
 Science:
 	- Teleport @done
 	- Cosmonaut @done
 	- Decipher @done
-	- Integer
+	- Integer @done
 	- Policia
 
 Psychedelic:
-	- Groovy
-	- Seducer
-	- Blush
-	- Melancholy
+	- Groovy @done
+	- Seducer @done
+	- Blush @done
+	- Melancholy @done
 	- Bliss
