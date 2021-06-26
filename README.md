@@ -7,7 +7,7 @@ Taskpaper lists for my Cold War camo progress
 ### Assault Rifles
 - [x] XM4
 - [x] AK-47
-- [ ] Krig 6
+- [x] Krig 6
 - [ ] QBZ-83
 - [ ] FFAR 1
 - [ ] Groza
