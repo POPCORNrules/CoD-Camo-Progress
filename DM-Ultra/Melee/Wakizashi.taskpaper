@@ -1,47 +1,47 @@
 Spray:
-	- Shards
-	- Ambush
-	- Frozen Lake
-	- Debris
-	- Prosper
+	- Shards @done
+	- Ambush @done
+	- Frozen Lake @done
+	- Debris @done
+	- Prosper @done
 
 Stripes:
-	- Gravel
-	- Graze
-	- Frost
-	- Thrash
-	- Bengal
+	- Gravel @done
+	- Graze @done
+	- Frost @done
+	- Thrash @done
+	- Bengal @done
 
 Classic:
-	- Platoon
-	- Ash
-	- Checkpoint
-	- Coercion
-	- Ransom
+	- Platoon @done
+	- Ash @done
+	- Checkpoint @done
+	- Coercion @done
+	- Ransom @done
 
 Geometric:
-	- Blockade
-	- Warsaw
-	- Transform
-	- Fraction
-	- Bloodline
+	- Blockade @done
+	- Warsaw @done
+	- Transform @done
+	- Fraction @done
+	- Bloodline @done
 
 Flora:
-	- Frith
-	- Old Growth
-	- Nectar
-	- Lumber
+	- Frith @done
+	- Old Growth @done
+	- Nectar @done
+	- Lumber @done
 	- Cherry Blossom
 
 Science:
-	- Teleport
+	- Teleport @done
 	- Cosmonaut
 	- Decipher
 	- Integer
 	- Policia
 
 Psychedelic:
-	- Groovy
+	- Groovy @done
 	- Seducer
 	- Blush
 	- Melancholy
