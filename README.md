@@ -3,7 +3,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## DM Ultra: 10/10 Categories ![61%](https://progress-bar.dev/61/?width=200)
+## DM Ultra: 10/10 Categories ![60%](https://progress-bar.dev/60/?width=200)
 ### Assault Rifles (Unlocked)
 - [x] XM4
 - [x] AK-47
@@ -29,7 +29,7 @@ Taskpaper lists for my Cold War camo progress
 ### Melee (Unlocked)
 - [x] Knife
 - [ ] Sledgehammer
-- [ ] Wakizashi
+- [x] Wakizashi
 - [ ] E-Tool
 - [ ] Machete
 - [ ] Baseball Bat
