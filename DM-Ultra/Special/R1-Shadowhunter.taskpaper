@@ -1,9 +1,9 @@
 Spray:
-	- Shards
-	- Ambush
-	- Frozen Lake
-	- Debris
-	- Prosper
+	- Shards @done
+	- Ambush @done
+	- Frozen Lake @done
+	- Debris @done
+	- Prosper @done
 
 Stripes:
 	- Gravel
@@ -13,36 +13,36 @@ Stripes:
 	- Bengal
 
 Classic:
-	- Platoon
-	- Ash
-	- Checkpoint
-	- Coercion
-	- Ransom
+	- Platoon @done
+	- Ash @done
+	- Checkpoint @done
+	- Coercion @done
+	- Ransom @done
 
 Geometric:
-	- Blockade
-	- Warsaw
-	- Transform
-	- Fraction
+	- Blockade @done
+	- Warsaw @done
+	- Transform @done
+	- Fraction @done
 	- Bloodline
 
 Flora:
-	- Frith
-	- Old Growth
-	- Nectar
-	- Lumber
+	- Frith @done
+	- Old Growth @done
+	- Nectar @done
+	- Lumber @done
 	- Cherry Blossom
 
 Science:
-	- Teleport
-	- Cosmonaut
-	- Decipher
-	- Integer
-	- Policia
+	- Teleport @done
+	- Cosmonaut @done
+	- Decipher @done
+	- Integer @done
+	- Policia @done
 
 Psychedelic:
-	- Groovy
-	- Seducer
-	- Blush
+	- Groovy @done
+	- Seducer @done
+	- Blush @done
 	- Melancholy
 	- Bliss

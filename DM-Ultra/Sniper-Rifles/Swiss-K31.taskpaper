@@ -1,15 +1,15 @@
 Spray:
-	- Shards
-	- Ambush
-	- Frozen Lake
-	- Debris
+	- Shards @done
+	- Ambush @done
+	- Frozen Lake @done
+	- Debris @done
 	- Prosper
 
 Stripes:
-	- Gravel
-	- Graze
-	- Frost
-	- Thrash
+	- Gravel @done
+	- Graze @done
+	- Frost @done
+	- Thrash @done
 	- Bengal
 
 Classic:
