@@ -46,6 +46,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] MAC-10
 - [ ] LC10
 - [x] PPSh-41
+- [ ] OTs 9
 ### Sniper Rifles (Unlocked)
 - [x] Pellington 703
 - [x] LW3-Tundra
@@ -108,6 +109,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] MAC-10
 - [ ] LC10
 - [ ] PPSh-41
+- [ ] OTs 9
 ### Sniper Rifles
 - [ ] Pellington 703
 - [ ] LW3-Tundra
