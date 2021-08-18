@@ -21,13 +21,13 @@ cat = [
     "Tactical-Rifles"
 ]
 
-Assault_Rifles = [["XM4", "AK-47", "Krig 6", "QBZ-83", "FFAR 1", "Groza", "FARA 83", "C58"], [5]]
+Assault_Rifles = [["XM4", "AK-47", "Krig 6", "QBZ-83", "FFAR 1", "Groza", "FARA 83", "C58", "EM2"], [5]]
 Pistols = [["1911", "Magnum", "Diamatti", "AMP63"], [3]]
 Launchers = [["Cigma-2", "RPG-7"], [2]]
 LMGs = [["Stoner 63", "RPD", "M60", "MG 82"], [3]]
-Melee = [["Knife", "Sledgehammer", "Wakizashi", "E-Tool", "Machete", "Baseball Bat"], [1]]
+Melee = [["Knife", "Sledgehammer", "Wakizashi", "E-Tool", "Machete", "Baseball Bat", "Mace", "Cane"], [1]]
 Shotguns = [["Hauer-77", "Gallo SA12", "Streetsweeper"], [2]]
-SMGs = [["MP5", "Milano 821", "AK-74u", "KSP 45", "Bullfrog", "MAC-10", "LC10", "PPSh-41", "OTs 9"], [5]]
+SMGs = [["MP5", "Milano 821", "AK-74u", "KSP 45", "Bullfrog", "MAC-10", "LC10", "PPSh-41", "OTs 9", "TEC-9"], [5]]
 Sniper_Rifles = [["Pellington 703", "LW3-Tundra", "M82", "ZRG 20mm", "Swiss K31"], [3]]
 Special = [["M79", "R1 Shadowhunter", "Ballistic Knife", "Nail Gun"], [1]]
 Tactical_Rifles = [["Type 63", "M16", "AUG", "DMR 14", "CARV.2"], [4]]
