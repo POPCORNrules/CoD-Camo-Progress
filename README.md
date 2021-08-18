@@ -3,7 +3,7 @@ Taskpaper lists for my Cold War camo progress
 
 
 # Current Progress
-## DM Ultra: 10/10 Categories ![64%](https://progress-bar.dev/64/?width=200)
+## DM Ultra: 10/10 Categories ![59%](https://progress-bar.dev/59/?width=200)
 ### Assault Rifles (Unlocked)
 - [x] XM4
 - [x] AK-47
@@ -13,6 +13,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] Groza
 - [x] FARA 83
 - [ ] C58
+- [ ] EM2
 ### Pistols (Unlocked)
 - [x] 1911
 - [x] Magnum
@@ -33,6 +34,8 @@ Taskpaper lists for my Cold War camo progress
 - [ ] E-Tool
 - [ ] Machete
 - [ ] Baseball Bat
+- [ ] Mace
+- [ ] Cane
 ### Shotguns (Unlocked)
 - [x] Hauer-77
 - [x] Gallo SA12
@@ -47,6 +50,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] LC10
 - [x] PPSh-41
 - [ ] OTs 9
+- [ ] TEC-9
 ### Sniper Rifles (Unlocked)
 - [x] Pellington 703
 - [x] LW3-Tundra
@@ -76,6 +80,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] Groza
 - [ ] FARA 83
 - [ ] C58
+- [ ] EM2
 ### Pistols
 - [ ] 1911
 - [ ] Magnum
@@ -96,6 +101,8 @@ Taskpaper lists for my Cold War camo progress
 - [ ] E-Tool
 - [ ] Machete
 - [ ] Baseball Bat
+- [ ] Mace
+- [ ] Cane
 ### Shotguns
 - [ ] Hauer-77
 - [ ] Gallo SA12
@@ -110,6 +117,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] LC10
 - [ ] PPSh-41
 - [ ] OTs 9
+- [ ] TEC-9
 ### Sniper Rifles
 - [ ] Pellington 703
 - [ ] LW3-Tundra
