@@ -55,7 +55,7 @@ Taskpaper lists for my Cold War camo progress
 - [ ] Swiss K31
 ### Special (Unlocked)
 - [x] M79
-- [ ] R1 Shadowhunter
+- [x] R1 Shadowhunter
 - [ ] Ballistic Knife
 - [ ] Nail Gun
 ### Tactical Rifles (Unlocked)

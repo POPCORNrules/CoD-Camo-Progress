@@ -6,11 +6,11 @@ Spray:
 	- Prosper @done
 
 Stripes:
-	- Gravel
-	- Graze
-	- Frost
-	- Thrash
-	- Bengal
+	- Gravel @done
+	- Graze @done
+	- Frost @done
+	- Thrash @done
+	- Bengal @done
 
 Classic:
 	- Platoon @done
@@ -24,14 +24,14 @@ Geometric:
 	- Warsaw @done
 	- Transform @done
 	- Fraction @done
-	- Bloodline
+	- Bloodline @done
 
 Flora:
 	- Frith @done
 	- Old Growth @done
 	- Nectar @done
 	- Lumber @done
-	- Cherry Blossom
+	- Cherry Blossom @done
 
 Science:
 	- Teleport @done
@@ -44,5 +44,5 @@ Psychedelic:
 	- Groovy @done
 	- Seducer @done
 	- Blush @done
-	- Melancholy
-	- Bliss
+	- Melancholy @done
+	- Bliss @done
