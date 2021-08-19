@@ -56,7 +56,7 @@ Taskpaper lists for my Cold War camo progress
 - [x] LW3-Tundra
 - [x] M82
 - [ ] ZRG 20mm
-- [ ] Swiss K31
+- [x] Swiss K31
 ### Special (Unlocked)
 - [x] M79
 - [x] R1 Shadowhunter
