@@ -101,35 +101,39 @@ def readfolder(masterycamo):
 
     return markdown, percent, str(mtotal), str(mcomplete)
 
-if "-u" in opts:
-    print("Updating Files...")
-    for camo in camos:
-        if not os.path.exists(camo):
-            print("Creating " + camo + "/")
-            os.mkdir(camo)
-        for category in cat:
-            if not os.path.exists(camo + "/" + category):
-                print("Creating " + camo + "/" + category + "/")
-                os.mkdir(camo + "/" + category)
-            for gun in eval(category.replace("-", "_"))[0]:
-                filename = str(gun).replace(" ", "-")
-                name = camo + "/" + category + "/" + filename + ".taskpaper"
-                if not os.path.exists(name):
-                    print("Creating " + name)
-                    tp = open(name, "x")
-                    tp.writelines(eval(camo.replace("-", "_")))
-                    tp.close()
-    print("Done.")
+def main():
+    if "-u" in opts:
+        print("Updating Files...")
+        for camo in camos:
+            if not os.path.exists(camo):
+                print("Creating " + camo + "/")
+                os.mkdir(camo)
+            for category in cat:
+                if not os.path.exists(camo + "/" + category):
+                    print("Creating " + camo + "/" + category + "/")
+                    os.mkdir(camo + "/" + category)
+                for gun in eval(category.replace("-", "_"))[0]:
+                    filename = str(gun).replace(" ", "-")
+                    name = camo + "/" + category + "/" + filename + ".taskpaper"
+                    if not os.path.exists(name):
+                        print("Creating " + name)
+                        tp = open(name, "x")
+                        tp.writelines(eval(camo.replace("-", "_")))
+                        tp.close()
+        print("Done.")
 
-else:
-    readme = open("README.md", "w")
-    readme.writelines(readme_header)
-    readme.close()
-    readme = open("README.md", "a")
-    for camo in camos:
-        data = readfolder(camo)
-        readme.write('## ' + camo.replace("-", " ") + ": " + data[3] + "/" + data[2] + " Categories" + ' ![' + data[1] + '%](https://progress-bar.dev/' + data[1] + '/?width=200)\n')
-        readme.write(data[0])
-        readme.write('\n\n')
-        print(camo.replace("-", " ") + ' Completion: ' + data[1] + '%')
-    readme.close()
+    else:
+        readme = open("README.md", "w")
+        readme.writelines(readme_header)
+        readme.close()
+        readme = open("README.md", "a")
+        for camo in camos:
+            data = readfolder(camo)
+            readme.write('## ' + camo.replace("-", " ") + ": " + data[3] + "/" + data[2] + " Categories" + ' ![' + data[1] + '%](https://progress-bar.dev/' + data[1] + '/?width=200)\n')
+            readme.write(data[0])
+            readme.write('\n\n')
+            print(camo.replace("-", " ") + ' Completion: ' + data[1] + '%')
+        readme.close()
+
+if __name__ == '__main__':
+    main()
