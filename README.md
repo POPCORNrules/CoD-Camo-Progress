@@ -3,137 +3,113 @@ Taskpaper lists for my Vanguard camo progress
 
 
 # Current Progress
-## DM Ultra: 10/10 Categories ![59%](https://progress-bar.dev/59/?width=200)
-### Assault Rifles (Unlocked)
-- [x] XM4
-- [x] AK-47
-- [x] Krig 6
-- [ ] QBZ-83
-- [x] FFAR 1
-- [ ] Groza
-- [x] FARA 83
-- [ ] C58
-- [ ] EM2
-### Pistols (Unlocked)
-- [x] 1911
-- [x] Magnum
-- [x] Diamatti
-- [ ] AMP63
-### Launchers (Unlocked)
-- [x] Cigma-2
-- [x] RPG-7
-### LMGs (Unlocked)
-- [x] Stoner 63
-- [x] RPD
-- [x] M60
-- [ ] MG 82
-### Melee (Unlocked)
-- [x] Knife
-- [ ] Sledgehammer
-- [x] Wakizashi
-- [ ] E-Tool
-- [ ] Machete
-- [ ] Baseball Bat
-- [ ] Mace
-- [ ] Cane
-### Shotguns (Unlocked)
-- [x] Hauer-77
-- [x] Gallo SA12
-- [ ] Streetsweeper
-### SMGs (Unlocked)
-- [x] MP5
-- [x] Milano 821
-- [x] AK-74u
-- [ ] KSP 45
-- [x] Bullfrog
-- [ ] MAC-10
-- [ ] LC10
-- [x] PPSh-41
-- [ ] OTs 9
-- [ ] TEC-9
-### Sniper Rifles (Unlocked)
-- [x] Pellington 703
-- [x] LW3-Tundra
-- [x] M82
-- [ ] ZRG 20mm
-- [x] Swiss K31
-### Special (Unlocked)
-- [x] M79
-- [x] R1 Shadowhunter
-- [ ] Ballistic Knife
-- [ ] Nail Gun
-### Tactical Rifles (Unlocked)
-- [x] Type 63
-- [x] M16
-- [x] AUG
-- [x] DMR 14
-- [ ] CARV.2
-
-
-## Dark Aether: 1/10 Categories ![4%](https://progress-bar.dev/4/?width=200)
+## Atomic: 0/9 Categories ![0%](https://progress-bar.dev/0/?width=200)
 ### Assault Rifles
-- [ ] XM4
-- [ ] AK-47
-- [ ] Krig 6
-- [ ] QBZ-83
-- [ ] FFAR 1
-- [ ] Groza
-- [ ] FARA 83
-- [ ] C58
-- [ ] EM2
-### Pistols
-- [ ] 1911
-- [ ] Magnum
-- [ ] Diamatti
-- [ ] AMP63
-### Launchers (Unlocked)
-- [x] Cigma-2
-- [x] RPG-7
-### LMGs
-- [ ] Stoner 63
-- [ ] RPD
-- [ ] M60
-- [ ] MG 82
-### Melee
-- [ ] Knife
-- [ ] Sledgehammer
-- [ ] Wakizashi
-- [ ] E-Tool
-- [ ] Machete
-- [ ] Baseball Bat
-- [ ] Mace
-- [ ] Cane
-### Shotguns
-- [ ] Hauer-77
-- [ ] Gallo SA12
-- [ ] Streetsweeper
+- [ ] STG44
+- [ ] Automaton
+- [ ] Itra Burst
+- [ ] BAR
+- [ ] AS44
+- [ ] NZ-41
+- [ ] Volkssturmgewehr
+- [ ] Cooper Carbine
 ### SMGs
-- [ ] MP5
-- [ ] Milano 821
-- [ ] AK-74u
-- [ ] KSP 45
-- [ ] Bullfrog
-- [ ] MAC-10
-- [ ] LC10
+- [ ] MP-40
+- [ ] Sten
+- [ ] M1928
+- [ ] Owen Gun
+- [ ] Type 100
 - [ ] PPSh-41
-- [ ] OTs 9
-- [ ] TEC-9
+- [ ] Welgun
+### Shotguns
+- [ ] Einhorn Revolving
+- [ ] Combat Shotgun
+- [ ] Gracy Auto
+- [ ] Double Barrel
+### LMGs
+- [ ] MG42
+- [ ] DP27
+- [ ] Type 11
+- [ ] Bren
+### Marksman Rifles
+- [ ] M1 Garand
+- [ ] SVT-40
+- [ ] G-43
 ### Sniper Rifles
-- [ ] Pellington 703
-- [ ] LW3-Tundra
-- [ ] M82
-- [ ] ZRG 20mm
-- [ ] Swiss K31
-### Special
-- [ ] M79
-- [ ] R1 Shadowhunter
-- [ ] Ballistic Knife
-- [ ] Nail Gun
-### Tactical Rifles
-- [ ] Type 63
-- [ ] M16
-- [ ] AUG
-- [ ] DMR 14
-- [ ] CARV.2
+- [ ] Type 99
+- [ ] 3-Line Rifle
+- [ ] Kar98k
+- [ ] Gorenko Anti-Tank Rifle
+### Handguns
+- [ ] Ratt
+- [ ] Top Break
+- [ ] 1911
+- [ ] Klauser
+- [ ] Machine Pistol
+### Launchers
+- [ ] M1 Bazooka
+- [ ] Panzerschreck
+- [ ] Panzerfaust
+- [ ] MK11 Launcher
+### Melee
+- [ ] Combat Shield
+- [ ] FS Fighting Knife
+- [ ] Katana
+- [ ] Sawtooth
+
+
+## Dark Aether: 0/9 Categories ![0%](https://progress-bar.dev/0/?width=200)
+### Assault Rifles
+- [ ] STG44
+- [ ] Automaton
+- [ ] Itra Burst
+- [ ] BAR
+- [ ] AS44
+- [ ] NZ-41
+- [ ] Volkssturmgewehr
+- [ ] Cooper Carbine
+### SMGs
+- [ ] MP-40
+- [ ] Sten
+- [ ] M1928
+- [ ] Owen Gun
+- [ ] Type 100
+- [ ] PPSh-41
+- [ ] Welgun
+### Shotguns
+- [ ] Einhorn Revolving
+- [ ] Combat Shotgun
+- [ ] Gracy Auto
+- [ ] Double Barrel
+### LMGs
+- [ ] MG42
+- [ ] DP27
+- [ ] Type 11
+- [ ] Bren
+### Marksman Rifles
+- [ ] M1 Garand
+- [ ] SVT-40
+- [ ] G-43
+### Sniper Rifles
+- [ ] Type 99
+- [ ] 3-Line Rifle
+- [ ] Kar98k
+- [ ] Gorenko Anti-Tank Rifle
+### Handguns
+- [ ] Ratt
+- [ ] Top Break
+- [ ] 1911
+- [ ] Klauser
+- [ ] Machine Pistol
+### Launchers
+- [ ] M1 Bazooka
+- [ ] Panzerschreck
+- [ ] Panzerfaust
+- [ ] MK11 Launcher
+### Melee
+- [ ] Combat Shield
+- [ ] FS Fighting Knife
+- [ ] Katana
+- [ ] Sawtooth
 
 
