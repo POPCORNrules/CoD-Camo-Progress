@@ -3,7 +3,7 @@ Taskpaper lists for my Vanguard camo progress
 
 
 # Current Progress
-## Atomic: 0/9 Categories ![0%](https://progress-bar.dev/0/?width=200)
+## Atomic: 0/9 Categories ![3%](https://progress-bar.dev/3/?width=200)
 ### Assault Rifles
 - [ ] STG44
 - [ ] Automaton
@@ -39,7 +39,7 @@ Taskpaper lists for my Vanguard camo progress
 - [ ] Type 99
 - [ ] 3-Line Rifle
 - [ ] Kar98k
-- [ ] Gorenko Anti-Tank Rifle
+- [x] Gorenko Anti-Tank Rifle
 ### Handguns
 - [ ] Ratt
 - [ ] Top Break
