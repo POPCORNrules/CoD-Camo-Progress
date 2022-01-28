@@ -1,5 +1,5 @@
-# CW-Camo-Progress
-Taskpaper lists for my Cold War camo progress
+# CoD-Camo-Progress
+Taskpaper lists for my Vanguard camo progress
 
 
 # Current Progress
