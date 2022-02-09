@@ -3,7 +3,7 @@ Taskpaper lists for my Vanguard camo progress
 
 
 # Current Progress
-## Atomic: 0/9 Categories ![4%](https://progress-bar.dev/4/?width=200)
+## Atomic: 0/9 Categories ![5%](https://progress-bar.dev/5/?width=200)
 ### Assault Rifles
 - [ ] STG44
 - [ ] Automaton
