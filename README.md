@@ -36,7 +36,7 @@ Taskpaper lists for my Vanguard camo progress
 - [ ] SVT-40
 - [ ] G-43
 ### Sniper Rifles
-- [ ] Type 99
+- [x] Type 99
 - [ ] 3-Line Rifle
 - [ ] Kar98k
 - [x] Gorenko Anti-Tank Rifle
